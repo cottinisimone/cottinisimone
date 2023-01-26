@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Below a list of projects i'm working in/i've worked on:
+Below a list of projects i'm working/i've worked on:
 
 - [desenv-rs](https://github.com/cottinisimone/desenv-rs): Lib to deserialize into a struct environment variables [**Rust**].
 - [localauth0](https://github.com/primait/localauth0): Local development tool to mock auth0 service [**Rust**].
