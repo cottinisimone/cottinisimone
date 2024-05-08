@@ -7,6 +7,7 @@ Below a list of projects i'm working/i've worked on:
 - [esrs](https://github.com/primait/event_sourcing.rs): Event sourcing project [**Rust**].
 - [jwk_client](https://github.com/primait/jwks_client): Lib to keep in memory remote Jwks [**Rust**].
 - [csv_schema](https://github.com/primait/csv_schema): Lib to create an `Ecto.Schema`-like module to fetch data from Csv [**Elixir**].
+- [elixir_avro](https://github.com/primait/elixir-avro): Lib designed to generate Elixir code from Avro schemas [**Elixir**].
 
 <!--
 **cottinisimone/cottinisimone** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
